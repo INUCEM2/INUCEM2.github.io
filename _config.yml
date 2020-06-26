@@ -2,7 +2,7 @@
 name: INUCEM
 description: Incheon National University Construction Engineering & Management Laboratory
 meta_description: "Incheon National University CEMLAB."
-logo: 'assets/images/logo_2.png' # 화면 왼쪽 상단 연구실 아이콘 모양 238*30
+logo: 'assets/images/logo_3.png' # 화면 왼쪽 상단 연구실 아이콘 모양 238*30
 favicon: 'assets/images/favicon.ico'
 paginate: 12
 baseurl: 
