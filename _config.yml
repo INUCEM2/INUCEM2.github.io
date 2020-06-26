@@ -1,0 +1,80 @@
+# Site
+name: SNU UX LAB
+description: Seoul National University UX LAB
+meta_description: "Seoul National Universtiy UXLAB."
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+paginate: 12
+baseurl: 
+email: 'snuxlab@gmail.com'
+google_analytics: 'UA-115605548-1'
+disqus: 'demowebsite'
+sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
+
+# Authors
+authors:
+  JiHoon:
+    name: JiHoonLee 
+    display_name: UXLAB
+    gravatar: 
+    email:
+    web: 
+    twitter: 
+    description: 
+  Minjoon:
+    name: Minjoon Kim
+    display_name: Minjoon
+    gravatar: 
+    email:
+    web: 
+    twitter: 
+    description: 
+  Yoojung:
+    name: Yoojung Kim
+    display_name: Yoojung
+    gravatar: 
+    email:
+    web: 
+    twitter: 
+    description:
+  Soomin:
+    name: Soomin Lee
+    display_name: Soomin
+    gravatar: 
+    email:
+    web: 
+    twitter: 
+    description:
+  Soobin:
+    name: Soobin Cho
+    display_name: Soobin
+    gravatar: 
+    email:
+    web: 
+    twitter: 
+    description:
+  UXLab:
+    name: UX Lab
+    display_name: UX Lab
+    gravatar: 
+    email:
+    web: 
+    twitter: 
+    description:
+
+# Plugins
+plugins: 
+  - jekyll-paginate
+  - jekyll-archives
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Other
+markdown: kramdown
+highlighter: rouge

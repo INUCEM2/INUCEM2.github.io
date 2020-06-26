@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description>Seoul National University UX LAB</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 20 Feb 2019 14:37:11 +0900</pubDate>
+    <lastBuildDate>Wed, 20 Feb 2019 14:37:11 +0900</lastBuildDate>
+    <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>“얼떨결에, 구글홈”</title>
+        <description>&lt;p&gt;2주 전 금요일, 인턴 세 명은 모두 구글홈을 하나씩 손에 들고 퇴근했습니다. 저는 특별히 구글홈 미니를 골라잡았어요! 구글홈과 함께 진행되는 이번 인턴과제는 다이얼플로우를 이용해 자기소개 챗봇을 만드는 것과, 구글홈과 어시스턴트로 할 수 있는 다양한 작업들을 경험해보는 것이었습니다. 
+발화에서 intent 와 entity를 뽑아내어 챗봇을 만들어나가는 과정은 신기하고, 흥미롭고, 어려웠습니다. 나에 대한 질문에 답해줄 수 있는 챗봇을 만드려고 하니, 자연스레 저 자신을 구성하는 것들에 대해서 상당히 다양하게 들여다보는 시간을 가지게 되었어요. 저에 대한 어떤 질문을 하더라도 이 챗봇이 어느 정도 적절한 대답을 할 수 있도록 최대한 촘촘하게 만들어야지, 하고 다짐했었는데, 랩미팅에서 제가 다이얼플로우의 원리를 좀 잘못 이해했다는 걸 알고나니까 꽤나 속상하더라구요. 시간이 날 때 다시 한 번 원리에 맞는 제대로 된 챗봇을 만들고 싶다는 생각을 했습니다. 
+챗봇을 만드는 틈틈이 구글 어시스턴트와 대화도 하고, 타로점 보기나 인터랙티브 동화 듣기, 퀴즈 풀기와 같은 다양한 기능들을 써보았어요. 그런데 제가 카카오미니 대비 구글홈에게 너무 많은 기대를 했는지, 생각보다 구글홈과 할 수 있는 일들이 별로 없었습니다. 대화의 수준도 떨어지고, 그나마 매일 물어보는 오늘의 날씨마저 자꾸 틀리니까 자꾸만 사이가 조금씩 멀어져가고 있네요. 정말 괜찮은 인공지능 스피커, 좋은 대화형 에이전트란 뭘까 조금씩 더 고민해보게 되는 요즘입니다!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 19 Feb 2019 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/2019/02/19/soomin.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/02/19/soomin.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>겨울 인턴들의 첫 과제: 자연 경험</title>
+        <description>&lt;p&gt;안녕하세요! 오늘의 포스팅에서는 인턴들의 과제를 소개하려고 해요. 유우엑스랩의 인턴들은 매주 교수님께서 주시는 과제를 하고, 랩미팅에서 발표하는 시간을 가집니다. 올겨울 인턴들의 첫 과제는 바로바로 ‘자연 경험’이었습니다!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/news/yeeun/01/01.jpg&quot; /&gt;
+&lt;img src=&quot;/assets/images/news/yeeun/01/02.jpg&quot; /&gt;
+&lt;img src=&quot;/assets/images/news/yeeun/01/03.jpg&quot; /&gt;
+&lt;img src=&quot;/assets/images/news/yeeun/01/04.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
+자연 경험’이라는 말이 조금 생소하게 들릴 수 있을 것 같아요. 우리의 경험들을 자연 경험, 인공 경험, 알고리즘 경험으로 분류할 수 있는데, 이 중 자연 경험은 구조화 되어있지 않은 경험을 뜻합니다. 예를 들어서, 맨발로 거리를 걷는 것과 같은 설계 되어있지 않은 경험은 자연 경험에 속하게 됩니다. 방탈출처럼 설계된 경험을 뜻하는 인공 경험과는 대비되는 개념이죠. 인턴들에게 주어진 과제는 강렬한 자연 경험을 하고, 그 감각을 기록해서 발표하는 것이었습니다. 이곳이 사용자 경험 연구실인 만큼 경험에 대한 이해를 갖는 게 중요하기 때문에, 재미있으면서도 중요한 과제였어요. 
+&lt;br /&gt;&lt;br /&gt;
+그럼 유우엑스랩의 겨울 인턴들이 어떤 자연 경험을 했는지 살펴볼까요?
+&lt;br /&gt;&lt;br /&gt;
+이수민 인턴은 처음 호버보드에 타고 제대로 조종할 수 있게 되기까지의 과정을 동영상과 각종 비유를 통해 소개해주었어요. 저는 호버보드를 한 번도 타본 적이 없는데도, 발표를 들으며 호버보드의 아찔한 첫 느낌과 조종하는 감각을 생생하게 상상할 수 있었어요. 
+&lt;br /&gt;&lt;br /&gt;
+신예은 인턴은 셀프 단발을 한 후기를 동영상을 통해 소개했습니다. 단발머리를 한 경험도, 직접 머리를 잘라본 경험도 없었던 만큼, 직접 긴 머리를 싹둑 자르는 느낌이 정말 생경했다고 해요. 마음처럼 가꾸기 비싸고 어려웠던 머리를 접 꾸며보는 데에서 묘한 보람도 느꼈다고 합니다.
+&lt;br /&gt;&lt;br /&gt;
+고소영 인턴은 동영상을 통해 살면서 처음으로 트램펄린을 타본 경험을 발표했습니다. 어릴 적에 겁이 많았던 탓에 놀이기구는커녕 트램펄린도 타본 적이 없었고, 그래서 트램펄린 위에서 뛰는 것이 본인에게 정말 새로운 느낌이었다는 것을 설명해주었어요. 
+&lt;br /&gt;&lt;br /&gt;
+호버보드, 셀프 단발, 그리고 트램폴린까지! 이렇게 인턴들은 무사히 첫 과제를 마쳤답니다! 자연 경험 과제를 통해, 우리가 하는 경험들의 의미에 대해서 더 고민하고 알아갈 수 있었어요. 
+&lt;br /&gt;&lt;br /&gt;
+재미있게 보셨나요? 유우엑스랩의 일기는 계속됩니다! 
+다음에 또 만나요~!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 24 Jan 2019 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/2019/01/24/yeeun.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/01/24/yeeun.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>자기소개봇 만들기</title>
+        <description>&lt;p&gt;요즘은 은행이든, 쇼핑몰이든, 심지어는 피자 가게까지 홈페이지에서 챗봇 서비스를 많이 제공하고 있는데요, 이런 챗봇을 개인도 만들어볼 수 있다는 것을 이번에 처음 알게 되었습니다.&lt;/p&gt;
+
+&lt;p&gt;바로 구글의 머신러닝 기술을 적용한 Dialogflow(dialogflow.com)를 이용하면 가능합니다.인턴인 제가 이번에 받은 과제는 이 Dialogflow로 자기소개를 하는 챗봇을 만들어보는 것이었습니다. Dialogflow는 인텐트와 엔티티라는 두 가지 요소로 나뉘어져 있는데요, 엔티티로 음식, 책, 영화 같은 객체를 넣어놓고, 인텐트에 ‘좋아하는 XX는?’ 하는 식으로 질문을 만들어서 각 엔티티에 해당하는 대답을 작성하면 챗봇이 답을 해주는 방식입니다. 방법 자체를 이해하는 것도 까다로웠지만, 질문과 답변을 얼마나 많이 준비해야할지 알 수 없으니 다른 과제와 달리 끝이라는 게 없어서 좀 더 난이도가 느껴졌어요.&lt;/p&gt;
+
+&lt;p&gt;그리고 드디어 떨리는 발표 시간. 다른 인턴분의 챗봇이 방학에 뭐 할 거냐는 질문에 남자친구 얘기를 할 때는 다른 사람들과 함께 웃으면서도 동시에 제 차례를 걱정했는데요, 아니나 다를까 제 챗봇도 미처 준비하지 못한 질문을 받고 엉뚱한 답을 하는 것을 보며 식은땀을 흘렸습니다. 하지만 작성해둔 것과 좀 다른 형태로 질문해도 인공지능이 적절한 답변을 찾아 할 때는 뿌듯한 동시에 신기한 마음도 들었습니다. 또 아직은 실제 사람과 대화하는 것과는 차이가 있음을 발견하고 어떻게 하면 좀 더 자연스러운 대화를 디자인할 수 있을지 많은 고민을 하게 되는 과제였습니다&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 24 Jan 2019 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/2019/01/24/soyoung.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/01/24/soyoung.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>유우엑스 랩의 외근하는 날</title>
+        <description>&lt;p&gt;오늘은 연구실 모두가 강북으로 외근을 나갔습니다! 문화 챗봇 팀이 북촌 쪽에서 미팅이 있었기 때문에, 미팅이 시작하기 전 아침에 다같이 모여 국립 현대미술관에 가서 뒤샹의 전시를 봤어요.&lt;/p&gt;
+
+&lt;p&gt;많은 것을 이해할 수는 없었지만, 뒤샹이 예술과 기술을 융합해 당대에 새로운 테마를 던진 비범함이 있었다는 것을 느낄 수 있었습니다. 그런 이유에서 선생님이 저희를 이 전시에 보내신 건가? 라는 생각도 들었고요. 문화 챗봇팀이 아닌 언니들과 다른 인턴분들과 함께 유명하다는 한 칼국수 집에 가서 칼국수와 만둣국을 먹으며, 예술에 대한 이런저런 이야기를 나누기도 했습니다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/news/soomin/02/02.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;점심을 먹고는 을지로의 힙한 카페에서 커피도 마시고, 그 앞 위워크로 이동했습니다. 위워크(WeWork)는 다양한 일을 하는 사람들에게 더 나은 작업환경을 제공해주는 복합 사무 공간인데요, 이런 세련된 업무 공간에 처음 들어와본 저희 인턴들은 마치 열일하는 스타트업 창업자가 된 것 같은 기분에 상당히 설레고 들떴습니다.&lt;/p&gt;
+
+&lt;p&gt;간만에 18동 연구실이 아닌 다른 곳으로 출근을 하고 다른 공간에서 작업을 하니 새로웠습니다. 기분이 좋아 괜히 더 일이 잘 되는 느낌도 들었던, 특별한 하루였습니다.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 24 Jan 2019 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/2019/01/24/soomin.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/01/24/soomin.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Bixby, Next step에 대한 고민 :UX관점에서</title>
+        <description>&lt;p&gt;머신 러닝의 고도화와 스마트 스피커의 보급으로 IPA는 사람들의 일상 곳곳에서 나타나고 있다. 그러나, 단순히 흥미롭고 신기한 이유로 IPA를 사용하는 단계를 지나 지속적으로 이를 사용하기에는 아직 기술이 뒷받침해주지 못하는 실정이다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/project/2018/bixby/02.jpg&quot; /&gt;
+&lt;img src=&quot;/assets/images/project/2018/bixby/03.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;이에 기업에서는 유명 연예인의 목소리를 통해 사용자에게 친근감을 준다거나 귀여운 외형으로 호감을 불러일으키는 등의 ‘인간적인 호감을 얻을 수 있는’ 접근을 취하고 있다. 본 프로젝트는 현재의 접근 방향의 한계를 지적하고, 비기술적인 측면에서 사용자의 경험을 극대화하여 IPA가 발전할 수 있는 방향을 모색한다.&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;참가자: 강슬기(PM), 고병휘, 이지훈, 송지은&lt;br /&gt;
+기간: 2018.09 - 2018.12 &lt;br /&gt;
+주최: 삼성전자 디자인경영센터&lt;/p&gt;
+</description>
+        <pubDate>Sun, 13 Jan 2019 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/project/2019/01/13/ProjectBixby.html</link>
+        <guid isPermaLink="true">http://localhost:4000/project/2019/01/13/ProjectBixby.html</guid>
+        
+        
+        <category>Project</category>
+        
+      </item>
+    
+      <item>
+        <title>유우엑스 랩이 점심시간을 보내는 법</title>
+        <description>&lt;p&gt;목요일 10시, 늘 하는 랩미팅을 마치고 다 같이 모여 살짝 식은 피자를 먹었습니다. 든든히 배를 채우고나서 남은 점심시간에는 소화도 시킬 겸, 프리스비 국가대표라는 민준선배를 따라 모두 프리스비를 하러 나가기로 했습니다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/news/soomin/01/01.jpg&quot; /&gt;
+&lt;img src=&quot;/assets/images/news/soomin/01/02.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;프리스비는 플라스틱 쟁반같이 생긴 가벼운 원반을 주고받으면서 달려서 점수를 얻는 게임이라는데, 프리스비라는 이름조차 처음 들어본 저희는 그냥 서로에게 원반을 던지기만 해보기로 했어요. 다른 인턴분들과 함께 연구실 앞 풀밭에서 원반을 몇 번 던지고 있으려니 연구실 언니오빠들도 어느새 저희 옆에서 같이 원반을 던지고 있었습니다.&lt;/p&gt;
+
+&lt;p&gt;마침 한파가 풀려 따뜻한 햇살이 내리쬐는 풀밭에서, 옆으로는 깃발을 든 신입생들이 종종 지나가고, 느릿한 교가가 몇 번이고 울려퍼지는, 아주 평화로운 프리스비 시간을 가졌습니다. 오늘 유우엑스 랩의 점심시간은 당장이라도 학교 홍보영상에 나올 것만 같은 그런 화기애애한 오후였습니다.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 12 Jan 2019 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/2019/01/12/soomin.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/01/12/soomin.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title> 공공 문화/예술/관광 콘텐츠 서비스를 위한 챗봇 프레임워크 개발(1)</title>
+        <description>&lt;p&gt;문화콘텐츠진흥원이 공모한 프로젝트로, 우리 연구실이 주관하며 공동연구기관 머니브레인과 위탁연구기관 크레디아와 함께 진행중인 3개년도 프로젝트. 기존 공연 관람은 탐색이 어렵고 복잡한 카탈로그 브라우징이었다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/project/2018/chatbot/02.jpg&quot; /&gt;
+&lt;img src=&quot;/assets/images/project/2018/chatbot/03.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;그러나 이제는 CAs를 통해 정보의 통합/추천/개인화가 가능해졌다. 이를 구현하기 위해 문화 도메인 특성을 고려한 시나리오 도출 및 엔진 개발을 하고자 한다.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;참가자: 김민준(PM), 최혜영, 김병준, 김준한, 강슬기, 고병휘, 이정복, 전하영&lt;br /&gt;
+기간: 2018.03 - 2018.12 &lt;br /&gt;
+주최: 한국콘텐츠진흥원&lt;/p&gt;
+</description>
+        <pubDate>Sat, 12 Jan 2019 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/project/2019/01/12/ProjectChatbot20180114.html</link>
+        <guid isPermaLink="true">http://localhost:4000/project/2019/01/12/ProjectChatbot20180114.html</guid>
+        
+        
+        <category>Project</category>
+        
+      </item>
+    
+  </channel>
+</rss>
