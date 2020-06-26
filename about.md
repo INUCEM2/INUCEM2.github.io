@@ -17,7 +17,7 @@ comments: true
 
 김태완 교수는 성능, 시뮬레이션 기반 및 인공 지능 (artificial intelligence : AI) 기반의 접근 방식을 통해 건물 전체 Life-cycle 관리의 기능적, 실질적 혁신을 위한 연구를 진행하고 있으며, 가상 설계 및 구축(virtual design and construction : VDC)과 빌딩 정보 모델링(BIM) 이론을 통해 정보의 시각화, 통합, 자동화를 실현하고 있습니다. 또한 VDC의 프레임 워크를 사용하여 지속 가능한 건축과 건설의 성능 향상을 목적으로 다양한 건축 요소 (i.e., 프로세스, 조직, 생산 요소) 사이의 관계를 탐구하고 형식화하는 연구 분야에 앞장서 있으며 많은 관련 연구 경험에 따른 노하루를 축적하고 있습니다.
                                                                     
-<ceneter><img src="{{site.baseurl}}/assets/images/project/2018/chatbot/02.jpg"></center>
+<img src="{{site.baseurl}}/assets/images/project/2018/chatbot/02.jpg">
 
 구충완 교수는 공간에서 재실자 행동 · 생체반응, 실내환경 · 에너지효율에 대한 진단 · 예측을 위한 인텔리전트 시설경영(intelligent Facility Management) 전략에 대한 연구를 수행하고 있습니다. 이를 위하여 사물인터넷 센서 네트워크, 실시간 빅데이터 분석, 인공지능 기반 예측, 디지털 트윈 기술, 몰입형 가상/혼합현실, 생체반응(신경 · 생리심리) 등 다양한 스마트 건축기술과 최신 컴퓨팅 기술을 활용하며 노하우를 축적하고 있습니다.
                     
